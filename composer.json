@@ -5,7 +5,7 @@
     },
     "autoload": {
         "psr-4": {
-            "KaizenNexus\\Survey\\": "src"
+            "KaizenNexus\\Survey\\": "src/"
         }
     }
 }
